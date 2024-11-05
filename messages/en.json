@@ -1,0 +1,45 @@
+{
+  "Menu": {
+    "home": "Home",
+    "corporate": "Corporate",
+    "about": "About",
+    "certificates": "Certificates",
+    "products": "Products",
+    "technology": "Technology",
+    "media": "Media",
+    "career": "Career",
+    "contact": "Contact",
+    "payment": "Payment"
+  },
+  "HomePage": {
+    "productTitle": "Products"
+  },
+
+  "Products": {
+    "color": "Colors"
+  },
+  "About": {
+    "vision": "Vision",
+    "mission": "Mission"
+  },
+  "Contact": {
+    "writeUs": "Write to Us",
+    "desc": "You can send us all your questions, problems, communication and opinions.",
+    "name": " Your Name",
+    "message": "Your Message",
+    "email": "Your E-mail",
+    "send": "Send",
+    "title": "Contact Info",
+    "address": "Address",
+    "phone": "Phone",
+    "mail": "Mail Address",
+    "success": "Your message was sent successfully!",
+    "wait": "Please wait 30 seconds."
+  },
+  "button": {
+    "learnMore": "Learn More",
+    "review": "Review",
+    "joinUs": "Join Us"
+  },
+  "social": "Social Media"
+}

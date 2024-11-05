@@ -1,0 +1,45 @@
+{
+  "Menu": {
+    "home": "Anasayfa",
+    "corporate": "Kurumsal",
+    "about": "Hakkımızda",
+    "certificates": "Sertifikalar",
+    "products": "Ürünler",
+    "technology": "Teknoloji",
+    "media": "Medya",
+    "career": "Kariyer",
+    "contact": "İletişim",
+    "payment": "Ödeme"
+  },
+  "HomePage": {
+    "productTitle": "Ürünler"
+  },
+
+  "Products": {
+    "color": "Renkler"
+  },
+  "About": {
+    "vision": "Vizyonumuz",
+    "mission": "Misyonumuz"
+  },
+  "Contact": {
+    "writeUs": "Bize Yazın",
+    "desc": "Her türlü soru, sorun, iletişim ve görüşlerinizi bize iletebilirsiniz..",
+    "name": "Adınız",
+    "message": "Mesajınız",
+    "email": "E-mail Adresiniz",
+    "send": "Gönder",
+    "title": "İletişim Bilgilerimiz",
+    "address": "Adres",
+    "phone": "Telefon",
+    "mail": "Mail Adresi",
+    "success": "Mesajınız başarıyla gönderildi!",
+    "wait": " Lütfen 30 saniye bekleyin."
+  },
+  "button": {
+    "learnMore": "Daha Fazla Bilgi Al",
+    "review": "İncele",
+    "joinUs": "Bize Katılın"
+  },
+  "social": "Sosyal Medya"
+}
